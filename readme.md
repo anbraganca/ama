@@ -7,7 +7,7 @@ I get a lot of questions by email. This way anyone can read the answer!
 Anything means *anything*:
 
 - Personal questions
-- Programming
+- Programming in specific Python, please.
 - Money
 - Work
 - Life 
